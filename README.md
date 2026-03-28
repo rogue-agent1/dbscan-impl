@@ -1,1 +1,11 @@
-# dbscan-impl\n\nZero-dependency Python implementation.\n\n## Usage\n\n```bash\npython3 dbscan_impl.py\n```\n
+# dbscan-impl
+
+DBSCAN density-based clustering.
+
+Zero dependencies. Python 3.8+.
+
+## Usage
+
+```bash
+python3 dbscan_impl.py --help
+```
